@@ -1,1 +1,1 @@
-require('./node_modules/donejs/bin/donejs')
+require('.bin/donejs')

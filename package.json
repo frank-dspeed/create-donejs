@@ -1,11 +1,10 @@
 {
   "name": "create-donejs",
-  "version": "0.0.0-pre1",
+  "version": "3.2.0-pre5",
   "description": "Mirrors and installs donejs npm package",
-  "main": "index.js",
-  "bin" : {
-	"create-donejs" : "./index.js",
-	"donejs" : "./index.js"
+  "main": "node_modules/.bin/donejs",
+  "bin": {
+    "create-donejs": "./node_modules/.bin/donejs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
