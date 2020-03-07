@@ -3,6 +3,10 @@
   "version": "0.0.0-pre1",
   "description": "Mirrors and installs donejs npm package",
   "main": "index.js",
+  "bin" : {
+	"create-donejs" : "./index.js",
+	"donejs" : "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
