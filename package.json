@@ -1,0 +1,25 @@
+{
+  "name": "create-donejs",
+  "version": "0.0.0-pre1",
+  "description": "Mirrors and installs donejs npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donejs/donejs.git"
+  },
+  "keywords": [
+    "DoneJS"
+  ],
+  "author": "Bitovi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donejs/donejs/issues"
+  },
+  "homepage": "https://github.com/donejs/donejs#readme",
+  "dependencies": {
+    "donejs": "*"
+  }
+}
