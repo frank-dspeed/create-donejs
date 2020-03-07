@@ -1,6 +1,6 @@
 {
   "name": "create-donejs",
-  "version": "3.2.0-pre5",
+  "version": "3.2.0",
   "description": "Mirrors and installs donejs npm package",
   "main": "node_modules/.bin/donejs",
   "bin": {
